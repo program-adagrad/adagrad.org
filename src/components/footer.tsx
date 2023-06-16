@@ -1,5 +1,9 @@
 
 
 export default () => {
-    return "This is a footer."
+    return (
+        <div>
+            This is a footer.
+        </div>
+    )
 }
