@@ -7,8 +7,6 @@ export const metadata = {
 
 export default () => {
     return (
-        <Layout>
-            "Page"
-        </Layout>
+        "Page"
     )
 }
