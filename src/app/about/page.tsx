@@ -1,4 +1,3 @@
-import Layout from 'components/layouts/default'
 
 export const metadata = {
     title: "About",
@@ -7,6 +6,10 @@ export const metadata = {
 
 export default () => {
     return (
-        "Page"
+        <main>
+            <div>
+                <h1>Embracing a new software era</h1>
+            </div>
+        </main>
     )
 }

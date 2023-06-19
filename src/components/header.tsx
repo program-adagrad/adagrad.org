@@ -1,6 +1,3 @@
-import { link } from "fs"
-
-
 export default () => {
     return (
         <header className="flex items-center justify-between p-6" role="banner">
