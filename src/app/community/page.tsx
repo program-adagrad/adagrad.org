@@ -1,4 +1,3 @@
-import Layout from 'components/layouts/default'
 
 export const metadata = {
     title: "Community",
